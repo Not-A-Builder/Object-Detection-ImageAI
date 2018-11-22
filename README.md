@@ -27,4 +27,10 @@ pip install h5py
 pip install keras  
 pip install imageai  
 
+### RetinaNet model: 
+Download the RetinaNet model file that will be used for object detection at:  
+https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/resnet50_coco_best_v2.0.1.h5  
+
+#### Make sure that your python file and images(s) and the h5 RetinaNet file are in the same folder.
+
 
